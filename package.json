@@ -1,0 +1,22 @@
+{
+  "name": "oye",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jromeroman/Oye.git"
+  },
+  "keywords": [
+    "jromero"
+  ],
+  "author": "jromero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jromeroman/Oye/issues"
+  },
+  "homepage": "https://github.com/jromeroman/Oye#readme"
+}
